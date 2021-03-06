@@ -1,0 +1,12 @@
+
+.friend-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border: 1px solid rebeccapurple;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 250px;
+    height: 350px;
+}

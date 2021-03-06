@@ -1,0 +1,15 @@
+
+.notFound{
+    text-align: center;
+    padding: 100px;
+    box-shadow: 10px 10px 20px lightgray;
+}
+.notFound h3{
+    color: red;
+    font-size: 30px;
+}
+.notFound h1{
+    color: goldenrod;
+    font-size: 20px;
+    font-weight: 500;
+}
